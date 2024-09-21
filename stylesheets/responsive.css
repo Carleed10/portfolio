@@ -16,13 +16,13 @@
     }
 
     .wrapper::-webkit-scrollbar {
-        width: 5px
+        width: 3px
     }
 
 
 
     .wrapper:-webkit-scrollbar-track {
-        background: #fff
+        background: black;
     }
 
     .wrapper::-webkit-scrollbar-thumb {
