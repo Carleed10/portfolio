@@ -258,7 +258,7 @@
     /* Fullscreen
     ------------------------------------------------------------------------------------- */
     const tf_fullscreen = function () {
-      var tfheight = jQuery(window).height();
+      var tfheight = jQuery(window).height() + 250;
       var header_height = $(".header").height();
       var footer_height = $(".footer").height() + 40;
       var content_height = tfheight - (header_height + footer_height) + "px";
