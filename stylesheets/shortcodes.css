@@ -34,13 +34,13 @@
     padding-left: 15px;
     width: 1200px;
     max-width: 100%;
-    height: 150vh;
+    /* height: 150vh; */
     padding-bottom: 50px;
     /* background-color: blue; */
 }
 
 .wrapper {
-    border: 1px solid rgb(71,180,179);
+    border: 1px solid #FFCC29;
     border-radius: 20px;
     padding: 35px 50px;
     padding-right: 52px;
@@ -99,7 +99,7 @@
     width: 16px;
     height: 16px;
     border-radius: 50px;
-    background-color: rgb(71,180,179);
+    background-color: #FFCC29;
     top: 0;
     left: 0;
     right: 0;
@@ -156,7 +156,7 @@
 .sticky-sidebar .content p {
     font-size: 14px;
     line-height: 30px;
-    color: rgb(71,180,179);
+    color: #FFCC29;
     text-align: center;
 }
 
@@ -189,7 +189,7 @@
 .btn-profile:hover,
 .btn-profile.active {
     color: var(--title-light);
-    background-color: rgb(71,180,179);
+    background-color: #FFCC29;
 }
 
 .wd-social-icon li a i {
@@ -272,7 +272,7 @@
 }
 
 .wrap-title .note span {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .wrap-title .note span,
@@ -291,7 +291,7 @@
 }
 
 .wrap-title .title span {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .blog-wrap .image {
@@ -327,7 +327,7 @@
 }
 
 .post .thumb span:last-child {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .post .thumb {
@@ -358,7 +358,7 @@
 }
 
 .date-post .icon-calendar {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .is-dark .date-post {
@@ -381,14 +381,14 @@
     margin-right: 20px;
     font-size: 15px;
     padding: 10px;
-    border: 1px solid rgb(71,180,179);
+    border: 1px solid #FFCC29;
     width: 30px;
     height: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 100px;
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .is-dark .content .text span {
@@ -414,7 +414,7 @@
     margin-right: 13px;
     font-size: 7px;
     padding: 6px;
-    background-color: rgb(71,180,179);
+    background-color: #FFCC29;
     width: 14px;
     height: 14px;
     border-radius: 100px;
@@ -427,7 +427,7 @@
     padding: 41px 50px 50px;
     background-color: var(--primary-bg-white);
     border-radius: 10px;
-    border: 1px solid rgb(71,180,179);
+    border: 1px solid #FFCC29;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -471,7 +471,7 @@
 }
 
 .wd-user-post .profile-cart .social i:hover {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .blog-wrap .content .wd-user-post {
@@ -524,7 +524,7 @@
 .wd-link-blog a:hover,
 .is-dark .wd-link-blog a.active,
 .is-dark .wd-link-blog a:hover {
-    background-color: rgb(71,180,179);
+    background-color: #FFCC29;
     color: var(--title-light);
 }
 
@@ -660,7 +660,7 @@ form .textarea label {
 }
 
 .wd-post-comment form p span {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .wd-post-comment form button {
@@ -739,7 +739,7 @@ form .textarea label {
 
 .group-desc-user .desc-title .inner-desc li:hover,
 .group-desc-user .desc-title .inner-desc li.active {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .group-desc-user .desc-title .inner-desc li span {
@@ -927,7 +927,7 @@ form .textarea label {
 
 .tf-cart-contact.active,
 .tf-cart-contact:hover {
-    border: 1px solid rgb(71,180,179);
+    border: 1px solid #FFCC29;
 }
 
 .tf-cart-contact span {
@@ -1106,7 +1106,7 @@ form .textarea label {
 .tf-pagination li a:hover,
 .is-dark .tf-pagination li.current a,
 .is-dark .tf-pagination li a:hover {
-    background: rgb(71,180,179);
+    background: #FFCC29;
     color: var(--title-light);
 }
 
@@ -1154,7 +1154,7 @@ form .textarea label {
 
 .box-testimonials.active,
 .box-testimonials:hover {
-    border: 1px solid rgb(71,180,179);
+    border: 1px solid #FFCC29;
 }
 
 .box-testimonials .inner-top {
@@ -1186,7 +1186,7 @@ form .textarea label {
 }
 
 .post .group-rating .list-star .icon-star {
-    color: rgb(71,180,179);
+    color: #FFCC29;
     font-size: 12px;
 }
 
@@ -1249,7 +1249,7 @@ form .textarea label {
 
 .box-pricing.active,
 .box-pricing:hover {
-    border: 1px solid rgb(71,180,179);
+    border: 1px solid #FFCC29;
 }
 
 .box-pricing.cart {
@@ -1261,7 +1261,7 @@ form .textarea label {
     position: absolute;
     font-family: "Inter", sans-serif;
     width: 172px;
-    background-color: rgb(71,180,179);
+    background-color: #FFCC29;
     padding: 4px 26px;
     top: 40px;
     transform: rotate(50deg);
@@ -1301,7 +1301,7 @@ form .textarea label {
 .box-pricing .archive-top .inner-left p::before {
     font-family: "icomoon";
     content: "\e90e";
-    color: rgb(71,180,179);
+    color: #FFCC29;
     font-size: 16px;
     position: absolute;
     top: -6px;
@@ -1357,7 +1357,7 @@ form .textarea label {
 
 .box-pricing.active,
 .box-pricing:hover .archive-bottom {
-    background-color: rgb(71,180,179);
+    background-color: #FFCC29;
 }
 
 .box-pricing .archive-bottom p {
@@ -1439,7 +1439,7 @@ form .textarea label {
 }
 
 .box-portfolio:hover .img-portfolio {
-    border-color: rgb(71,180,179);
+    border-color: #FFCC29;
 }
 
 .box-portfolio:hover .img-portfolio img {
@@ -1485,8 +1485,8 @@ form .textarea label {
 }
 
 .box-portfolio:hover .content p {
-    border: 1px solid rgb(71,180,179);
-    background-color: rgb(71,180,179);
+    border: 1px solid #FFCC29;
+    background-color: #FFCC29;
     color: var(--title-light);
 }
 
@@ -1518,7 +1518,7 @@ form .textarea label {
 
 
 .box-portfolio:hover .content h4 svg path {
-    stroke: rgb(71,180,179);
+    stroke: #FFCC29;
     stroke-opacity: 1;
 }
 
@@ -1559,7 +1559,7 @@ form .textarea label {
 }
 
 .tf-skill-bar .inner-skill .progress-animate {
-    background: rgb(71,180,179);
+    background: #FFCC29;
     border-radius: 5px;
     height: 100%;
     width: 0;
@@ -1588,7 +1588,7 @@ form .textarea label {
     height: 20px;
     float: left;
     border-radius: 5px;
-    background: rgb(71,180,179);
+    background: #FFCC29;
 }
 
 .rank-skill {
@@ -1651,7 +1651,7 @@ form .textarea label {
 
 .tf-service:hover,
 .is-dark .tf-service:hover {
-    border: 1px solid rgb(71,180,179);
+    border: 1px solid #FFCC29;
 }
 
 .tf-service .content {
@@ -1678,7 +1678,7 @@ form .textarea label {
 .tf-service .title span {
     font-size: 14px;
     line-height: 32px;
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .tf-service .content p {
@@ -1715,7 +1715,7 @@ form .textarea label {
     font-size: 62px;
     line-height: 44px;
     margin-bottom: 15px;
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .tf-count h4 span {
@@ -1832,7 +1832,7 @@ form .textarea label {
 .tf-box-resume:hover,
 .is-dark .tf-box-resume.active,
 .is-dark .tf-box-resume:hover {
-    border: 1px solid rgb(71,180,179);
+    border: 1px solid #FFCC29;
 }
 
 .tf-box-resume .inner-left {
@@ -1852,7 +1852,7 @@ form .textarea label {
 }
 
 .tf-box-resume .inner-left li span {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .tf-box-resume .inner-right {
@@ -2274,7 +2274,7 @@ form .textarea label {
 
 .is-dark .wd-social-icon li a:hover,
 .is-dark .wd-social-icon li a.active {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .is-dark .btn-profile,
@@ -2286,7 +2286,7 @@ form .textarea label {
 
 .is-dark .btn-profile:hover,
 .is-dark .btn-profile.active {
-    background: rgb(71,180,179);
+    background: #FFCC29;
     color: var(--title-light);
 }
 

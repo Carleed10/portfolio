@@ -302,7 +302,7 @@ a {
 
 a:hover,
 a:focus {
-    color: rgb(71,180,179);
+    color: #FFCC29;
     text-decoration: none;
     outline: 0;
     -webkit-transition: all 0.3s ease-in-out;
@@ -432,7 +432,7 @@ input[type="submit"] {
 button[type="submit"] {
     border: none;
     font-weight: 700;
-    background-color: rgb(71,180,179);
+    background-color: #FFCC29;
     text-transform: capitalize;
     border-radius: 5px;
     width: 150px;
@@ -450,7 +450,7 @@ button[type="submit"] {
 
 button:hover {
     background-color: rgba(29, 28, 34, 0.1);
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 select,
@@ -672,7 +672,7 @@ input[type="color"],
 }
 
 .inner-header-left h3 span {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .inner-header-left h3 .typed-cursor {
@@ -704,7 +704,7 @@ input[type="color"],
 
 .wd-icon-box:hover,
 .wd-icon-box.active {
-    background-color: rgb(71,180,179);
+    background-color: #FFCC29;
     border: none
 }
 
@@ -778,7 +778,7 @@ input[type="color"],
 }
 
 .footer p a {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 
@@ -790,7 +790,7 @@ input[type="color"],
 }
 
 .widget-filter {
-    background: rgb(71,180,179);
+    background: #FFCC29;
     box-shadow: 0px 2px 2px rgba(28, 36, 51, 0.1);
     padding: 50px;
 }
@@ -1068,7 +1068,7 @@ input[type="color"],
     width: 50px;
     border-radius: 50%;
     transition: all 500ms ease-in-out;
-    background: rgb(71,180,179);
+    background: #FFCC29;
     cursor: pointer;
     overflow: hidden;
 }
@@ -1104,7 +1104,7 @@ input[type="color"],
     width: 25px;
     height: 25px;
     background: transparent;
-    box-shadow: 2.5em 2.5em 0 0em rgb(71,180,179);
+    box-shadow: 2.5em 2.5em 0 0em #FFCC29;
 }
 
 #logo_header-2,
@@ -1133,7 +1133,7 @@ input[type="color"],
 }
 
 .is-dark .wd-icon-box:hover span::before {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .is-dark .wd-icon-box:hover .nav-menu::before,
@@ -1142,17 +1142,17 @@ input[type="color"],
 .is-dark .wd-icon-box.active .nav-menu::before,
 .is-dark .wd-icon-box.active .nav-menu span,
 .is-dark .wd-icon-box.active .nav-menu::after {
-    background-color: rgb(71,180,179);
+    background-color: #FFCC29;
 }
 
 .is-dark .nav-menu::before,
 .is-dark .nav-menu span,
 .is-dark .nav-menu::after {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .is-dark h3 a:hover {
-    color: rgb(71,180,179);
+    color: #FFCC29;
 }
 
 .is-dark h1 {
@@ -1182,7 +1182,7 @@ input[type="color"],
     width: 8px;
     height: 8px;
     z-index: 1000;
-    background-color: rgb(71,180,179);
+    background-color: #FFCC29;
     -webkit-transition: width .5s ease-in-out, height .5s ease-in-out, margin .5s ease-in-out, opacity .5s ease-in-out;
     transition: width .5s ease-in-out, height .5s ease-in-out, margin .5s ease-in-out, opacity .5s ease-in-out
 }
@@ -1192,7 +1192,7 @@ input[type="color"],
     margin-top: -40px;
     width: 80px;
     height: 80px;
-    background-color: rgb(71,180,179);
+    background-color: #FFCC29;
     opacity: .3
 }
 
@@ -1201,7 +1201,7 @@ input[type="color"],
     margin-top: -22px;
     width: 40px;
     height: 40px;
-    border: 2px solid rgb(71,180,179);
+    border: 2px solid #FFCC29;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     z-index: 1000;
